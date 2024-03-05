@@ -1,0 +1,2 @@
+# double-sum
+say hi
